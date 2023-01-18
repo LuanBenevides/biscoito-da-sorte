@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nome-do-repositorio/static/css/main.448e36ed.css",
-    "main.js": "/nome-do-repositorio/static/js/main.70a49dcd.js",
-    "static/media/biscoito.png": "/nome-do-repositorio/static/media/biscoito.10574f4adcfea1c07e1c.png",
-    "index.html": "/nome-do-repositorio/index.html",
-    "main.448e36ed.css.map": "/nome-do-repositorio/static/css/main.448e36ed.css.map",
-    "main.70a49dcd.js.map": "/nome-do-repositorio/static/js/main.70a49dcd.js.map"
+    "main.css": "/biscoito-da-sorte/static/css/main.448e36ed.css",
+    "main.js": "/biscoito-da-sorte/static/js/main.de4645ac.js",
+    "static/media/biscoito.png": "/biscoito-da-sorte/static/media/biscoito.10574f4adcfea1c07e1c.png",
+    "index.html": "/biscoito-da-sorte/index.html",
+    "main.448e36ed.css.map": "/biscoito-da-sorte/static/css/main.448e36ed.css.map",
+    "main.de4645ac.js.map": "/biscoito-da-sorte/static/js/main.de4645ac.js.map"
   },
   "entrypoints": [
     "static/css/main.448e36ed.css",
-    "static/js/main.70a49dcd.js"
+    "static/js/main.de4645ac.js"
   ]
 }
